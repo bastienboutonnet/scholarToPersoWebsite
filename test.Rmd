@@ -1,0 +1,21 @@
+---
+title: "scholarToWebsiteTutorial"
+author: "Bastien Boutonnet"
+date: "29 October 2015"
+output: html_document
+---
+
+# Scholar Data 2 Website (or WordPress blog) with R 
+This tutorial & code pulls data from the google scholar API, and makes an image (along with an optional graph of your citations per year) that can be hosted online (maybe using services like Dropbox or GoogleDrive's public sharing).
+
+This tutorial is based on an R-bloggers post by XXX with some **graphical changes *and* the ability to display a bit more of useful info.**
+```{r}
+#load the package first otherwise R won't be able to find the functions later.
+library(scholar)
+
+#load your profile data FYrnmlIAAAAJ
+profile=get_profile('FYrnmlIAAAAJ')
+
+#look at the information you pulled out
+profile
+```    
