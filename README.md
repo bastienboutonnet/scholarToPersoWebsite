@@ -8,4 +8,6 @@ In Progress, please bear with me.
  - find out how to reproduce the "heatmap" style. Probably corr coef with a dummy X axis so as to generate a tile plot where X is "muted".
 - Might be a cool idea to also see about generating a graph like you would in Python using Bokeh to insert in the website directly, rather than embeding an image. Much cooler!
  - Bokeh, insert graph in HTML: http://bokeh.pydata.org/en/0.10.0/docs/user_guide/embed.html
+ - ggplot plotly stuff: http://ouzor.github.io/blog/2014/11/21/interactive-visualizations.html
+ - ggvis: http://ggvis.rstudio.com/
 - For a more distant future maybe develop a python package to do the equivalent of `scholar`?
