@@ -10,4 +10,7 @@ In Progress, please bear with me.
  - Bokeh, insert graph in HTML: http://bokeh.pydata.org/en/0.10.0/docs/user_guide/embed.html
  - ggplot plotly stuff: http://ouzor.github.io/blog/2014/11/21/interactive-visualizations.html
  - ggvis: http://ggvis.rstudio.com/
+ - embed bokeh into django templates: http://stackoverflow.com/questions/29508958/how-to-embed-bokeh-graphs-into-django-templates-without-using-the-bokeh-server
 - For a more distant future maybe develop a python package to do the equivalent of `scholar`?
+- Also for a distant future: A buienrada app for the pebble? There is already one but would be interesting to figure out how to reproduce it since the code is not open-source... Which sucks!
+
