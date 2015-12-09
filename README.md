@@ -13,4 +13,4 @@ In Progress, please bear with me.
  - embed bokeh into django templates: http://stackoverflow.com/questions/29508958/how-to-embed-bokeh-graphs-into-django-templates-without-using-the-bokeh-server
 - For a more distant future maybe develop a python package to do the equivalent of `scholar`?
 - Also for a distant future: A buienrada app for the pebble? There is already one but would be interesting to figure out how to reproduce it since the code is not open-source... Which sucks!
-
+- Buienradar, said they'd soon implement a querryable location based feed for current conditions based on lon/lat coordinates (not for commercial use).
